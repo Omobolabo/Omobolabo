@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Omobolabo
-- 👀 I’m interested in front end web development
-- 🌱 I’m currently developing my knowledge of Javascript and looking to be better at web development in general
+- 👀 I’m interested in front end development
 - 📫 How to reach me moyosoreosineye@gmail.com
 
 <!---
