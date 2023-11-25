@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Omobolabo
+- <h1>👋 Hi, I’m @Omobolabo</h1>
 - 👀 I’m interested in front end development
 - 📫 How to reach me moyosoreosineye@gmail.com
 
