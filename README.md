@@ -1,4 +1,4 @@
-- <h1>Hello, I’m Omobola</h1>
+- <h1>Hello🌚, I’m Bola</h1>
 - 👀 I’m interested in front end development
 - 📫 How to reach me moyosoreosineye@gmail.com
 
